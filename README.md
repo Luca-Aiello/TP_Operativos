@@ -1,4 +1,8 @@
 # tp-2023-2c-En_esta_la_firmamOS
+
+## ENUNCIADO ## 
+https://docs.google.com/document/d/1g6DEcbjilpX2XUBADuF6dPnrLv5lzoTZSVYCPgpHM_Q/edit?pli=1
+
 ## Esta posicionado en el Debug de cada modulo para correr por consola
 
 - LD_LIBRARY_PATH=/home/utnso/tp-2023-2c-En_esta_la_firmamOS/Shared/Debug/ ./Kernel ../kernel.config
